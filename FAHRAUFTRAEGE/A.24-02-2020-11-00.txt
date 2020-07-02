@@ -1,0 +1,51 @@
+
+
+
+< < < < <  W E L C O M E   T O    B L A G U S S  > > > > > 
+
+Erstellt um: 
+11:00:31
+
+---------------------FAHRER------------------------------
+Name:                Fejzo
+Nachname:            Hasanovic
+Telefon:             067761456845
+Fuhrerscheinklassen: D
+
+
+-----------------SACHBEARBEITER-------------------------
+Name:                Anita
+Nachname:            Krupitz
+Telefon:             06994532877
+Bearbeitungsfach:    Reiseverkehr
+
+
+---------------------KUNDE-------------------------------
+Name:                KUD Bosna
+Abfahrt Zeit:        05 /05 /2020  -  07:00
+Ankunft Zeit:        05 /05 /2020  -  17:00
+Personenzahl:        44
+Kilometer:           660
+
+-----Abholadresse-----
+>> Olimpyaplatz 1
+1020 Wien
+Oesterreich
+-----Zieladresse------
+<< Bosne Srebrene 9
+75000 Tuzla
+Bosnien
+
+
+------------------FAHRZEUG-------------------------------
+Typ:                 Reisebus
+Marke:               Volvo
+Sitzplatze Zahl:     44
+Garagen Nummer:      442016
+Baujahr:             2016
+---------------------------------------------------------
+
+
+
+
+  W I R      W U N S C H E N     G U T E      F A H R T 

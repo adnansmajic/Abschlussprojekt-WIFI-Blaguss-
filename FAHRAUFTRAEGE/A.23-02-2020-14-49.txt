@@ -1,0 +1,51 @@
+
+
+
+< < < < <  W E L C O M E   TO    B L A G U S S  > > > > > 
+
+Erstellt um: 
+14:49:13
+
+---------------------FAHRER------------------------------
+Name:                Christian
+Nachname:            Persi
+Telefon:             067778964396
+Fuhrerscheinklassen: D
+
+
+-----------------SACHBEARBEITER-------------------------
+Name:                Anita
+Nachname:            Krupitz
+Telefon:             06994532877
+Bearbeitungsfach:    Reiseverkehr
+
+
+---------------------KUNDE-------------------------------
+Name:                Ma-35
+Abfahrt Zeit:        24 /02 /2020  -  08:00
+Ankunft Zeit:        24 /02 /2020  -  16:00
+Personenzahl:        61
+Kilometer:           60.0
+
+-----Abholadresse-----
+>> Trillergasse 2b
+1210.0 Wien
+Österreich
+-----Zieladresse------
+<< R.Strauss Strasse 78b
+1230.0 Wien
+Österreich
+
+
+------------------FAHRZEUG-------------------------------
+Typ:                 Reisebus
+Marke:               Setra
+Sitzplatze Zahl:     62
+Garagen Nummer:      622018
+Baujahr:             2018
+---------------------------------------------------------
+
+
+
+
+  W I R      W U N S C H E N     G U T E      F A H R T 

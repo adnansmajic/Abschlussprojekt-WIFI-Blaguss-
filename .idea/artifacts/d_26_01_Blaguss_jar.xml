@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="d_26_01_Blaguss:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/d_26_01_Blaguss_jar</output-path>
+    <root id="archive" name="d_26_01_Blaguss.jar">
+      <element id="module-output" name="BlagussFinal" />
+    </root>
+  </artifact>
+</component>

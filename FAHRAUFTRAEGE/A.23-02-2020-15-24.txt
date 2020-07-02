@@ -1,0 +1,51 @@
+
+
+
+< < < < <  W E L C O M E   T O    B L A G U S S  > > > > > 
+
+Erstellt um: 
+15:24:21
+
+---------------------FAHRER------------------------------
+Name:                Christian
+Nachname:            Persi
+Telefon:             067778964396
+Fuhrerscheinklassen: D
+
+
+-----------------SACHBEARBEITER-------------------------
+Name:                Anita
+Nachname:            Krupitz
+Telefon:             06994532877
+Bearbeitungsfach:    Reiseverkehr
+
+
+---------------------KUNDE-------------------------------
+Name:                IMS Austria
+Abfahrt Zeit:        24 /02 /2020  -  08:00
+Ankunft Zeit:        24 /02 /2020  -  18:00
+Personenzahl:        55
+Kilometer:           250
+
+-----Abholadresse-----
+>> Trillergasse 2b
+1210 Wien
+Oesterreich
+-----Zieladresse------
+<< Hauptstrasse 33c
+1230 Wien
+Oesterreich
+
+
+------------------FAHRZEUG-------------------------------
+Typ:                 Reisebus
+Marke:               Volvo
+Sitzplatze Zahl:     58
+Garagen Nummer:      582004
+Baujahr:             2004
+---------------------------------------------------------
+
+
+
+
+  W I R      W U N S C H E N     G U T E      F A H R T 

@@ -1,0 +1,51 @@
+
+
+
+< < < < <  W E L C O M E   T O    B L A G U S S  > > > > > 
+
+Erstellt um: 
+05:46:28
+
+---------------------FAHRER------------------------------
+Name:                Marcus
+Nachname:            Koch
+Telefon:             066461354725
+Fuhrerscheinklassen: D,E
+
+
+-----------------SACHBEARBEITER-------------------------
+Name:                Julia
+Nachname:            Holler
+Telefon:             0677347093709
+Bearbeitungsfach:    Linienverkehr
+
+
+---------------------KUNDE-------------------------------
+Name:                MA 35-Wien
+Abfahrt Zeit:        22 /04 /2020  -  08:00
+Ankunft Zeit:        22 /04 /2020  -  14:00
+Personenzahl:        41
+Kilometer:           60
+
+-----Abholadresse-----
+>> Hietzingerstrasse  25a
+1140 Wien
+Oesterreich
+-----Zieladresse------
+<< Meidkingerstrasse  44
+1130 Wien
+Oesterreich
+
+
+------------------FAHRZEUG-------------------------------
+Typ:                 Linienbus
+Marke:               Scania
+Sitzplatze Zahl:     44
+Garagen Nummer:      442014
+Baujahr:             2014
+---------------------------------------------------------
+
+
+
+
+  W I R      W U N S C H E N     G U T E      F A H R T 

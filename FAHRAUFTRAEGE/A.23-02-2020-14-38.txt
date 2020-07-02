@@ -1,0 +1,51 @@
+
+
+
+< < < < <  W E L C O M E   TO    B L A G U S S  > > > > > 
+
+Erstellt um: 
+14:38:20
+
+---------------------FAHRER------------------------------
+Name:                Daniel
+Nachname:            Banovic
+Telefon:             004366061354127
+Fuhrerscheinklassen: D,E
+
+
+-----------------SACHBEARBEITER-------------------------
+Name:                Anita
+Nachname:            Krupitz
+Telefon:             06994532877
+Bearbeitungsfach:    Reiseverkehr
+
+
+---------------------KUNDE-------------------------------
+Name:                IME Wien
+Abfahrt Zeit:        26 /02 /2020  -  18:00
+Ankunft Zeit:        28 /02 /2022  -  22:00
+Personenzahl:        56.0
+Kilometer:           2200.0
+
+-----Abholadresse-----
+>> Richard Strauss Strasse 2b
+1230.0 Wien
+Österreich
+-----Zieladresse------
+<< Münchnerstrasse 56c
+4238934.0 Hamburg
+Deutschland
+
+
+------------------FAHRZEUG-------------------------------
+Typ:                 Reisebus
+Marke:               Setra
+Sitzplatze Zahl:     58
+Garagen Nummer:      582020
+Baujahr:             2020
+---------------------------------------------------------
+
+
+
+
+  W I R      W U N S C H E N     G U T E      F A H R T 

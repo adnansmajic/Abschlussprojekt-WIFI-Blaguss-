@@ -1,0 +1,51 @@
+
+
+
+< < < < <  W E L C O M E   T O    B L A G U S S  > > > > > 
+
+Erstellt um: 
+15:09:22
+
+---------------------FAHRER------------------------------
+Name:                Valentin
+Nachname:            Bosnjak
+Telefon:             00494342428394
+Fuhrerscheinklassen: D
+
+
+-----------------SACHBEARBEITER-------------------------
+Name:                Anita
+Nachname:            Krupitz
+Telefon:             06994532877
+Bearbeitungsfach:    Reiseverkehr
+
+
+---------------------KUNDE-------------------------------
+Name:                Ski for Scool
+Abfahrt Zeit:        25 /02 /2020  -  07:00
+Ankunft Zeit:        25 /02 /2020  -  19:00
+Personenzahl:        56
+Kilometer:           220
+
+-----Abholadresse-----
+>> LandstrasseHauptstrasse 45
+1030.0 Wien
+Oesterreich
+-----Zieladresse------
+<< Wienerstrasse 2b
+23445.0 Semmering
+Oesterreich
+
+
+------------------FAHRZEUG-------------------------------
+Typ:                 Reisebus
+Marke:               Setra
+Sitzplatze Zahl:     58
+Garagen Nummer:      582020
+Baujahr:             2020
+---------------------------------------------------------
+
+
+
+
+  W I R      W U N S C H E N     G U T E      F A H R T 
